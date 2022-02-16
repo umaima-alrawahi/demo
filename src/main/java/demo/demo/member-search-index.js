@@ -1,0 +1,1 @@
+memberSearchIndex = [{"p":"demo.demo.cal","c":"interfaceCalculator","l":"interfaceCalculator()","u":"%3Cinit%3E()"},{"p":"demo.demo.cal","c":"interfaceCalculator","l":"main(String[])","u":"main(java.lang.String[])"}];updateSearchResults();
